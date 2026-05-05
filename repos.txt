@@ -1,2 +1,5 @@
-# . No filter – keep all assets from the release
-therealaleph/MasterHttpRelayVPN-RUST
+
+therealaleph/MasterHttpRelayVPN-RUST|mhrv-rs-windows-amd64.zip|mhrv-rs-android-universal-v1.9.14.apk
+
+
+
