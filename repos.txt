@@ -1,5 +1,6 @@
 
-therealaleph/MasterHttpRelayVPN-RUST|mhrv-rs-windows-amd64.zip|mhrv-rs-android-universal-v1.9.14.apk
+therealaleph/v2rayN|v2rayN-windows-64.zip
+
 
 
 
